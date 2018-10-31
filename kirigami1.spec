@@ -4,7 +4,7 @@
 
 Name: kirigami1
 Version: 1.1.0
-Release: 1
+Release: 2
 Source0: http://download.kde.org/%{stable}/kirigami/kirigami-%{version}.tar.xz
 Summary: KDE user interface framework for mobile and convergent applications
 URL: http://kde.org/
