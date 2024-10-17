@@ -7,7 +7,7 @@ Version: 1.1.0
 Release: 3
 Source0: http://download.kde.org/%{stable}/kirigami/kirigami-%{version}.tar.xz
 Summary: KDE user interface framework for mobile and convergent applications
-URL: http://kde.org/
+URL: https://kde.org/
 License: GPL
 Group: System/Libraries
 BuildRequires: cmake(ECM)
